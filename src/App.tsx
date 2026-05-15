@@ -134,7 +134,7 @@ function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
-            <h1 className="aggressive-text text-7xl md:text-8xl lg:text-9xl mb-6">
+            <h1 className="aggressive-text text-5xl sm:text-6xl md:text-8xl lg:text-9xl mb-6">
               Build <br/><span className="text-brand">Strength.</span><br/>
               Transform.
             </h1>
